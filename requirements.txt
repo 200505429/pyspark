@@ -1,0 +1,9 @@
+flask
+sklearn
+pandas
+numpy
+gunicorn
+joblib
+matplotlib
+flask_cors
+xgboost==1.4.2
